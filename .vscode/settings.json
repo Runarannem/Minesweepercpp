@@ -1,0 +1,10 @@
+{
+    "tdt4102.isProjectFolder": true,
+    "files.associations": {
+        "memory": "cpp",
+        "iosfwd": "cpp",
+        "xlocbuf": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
+    }
+}
